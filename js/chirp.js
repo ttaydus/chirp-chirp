@@ -19,11 +19,3 @@ function chirp(n){
 $(document).ready(function(){
   $("#result").html(chirp(3));
 });
-
-
-// var addChirp = ' chirp';
-// var finalChirp = makeChirp.concat(addChirp);
-// console.log('finalChirp:',finalChirp)
-
-  //arrChirp.push('chirp');
-  //console.log(arrChirp);
